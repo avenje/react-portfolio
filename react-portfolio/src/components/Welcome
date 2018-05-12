@@ -1,0 +1,16 @@
+import React, { Component } from 'react';
+// import {accessId, APIkey} from '../secrets.js'
+
+class Welcome extends Component {
+   render() {
+      return (
+         <div className="Welcome section">
+            <h1 className="welcome-intro"><strong>Jeremy Avenarius</strong> is seeking for his first opportunity to be a Web Developer while living in Denver, CO.</h1>
+            <br/>
+
+         </div>
+      );
+   }
+}
+
+export default Welcome;
