@@ -292,11 +292,11 @@ p {
     color: white;
 }
 
-/* .main-pic {
-  border-radius: 50%;
+.main-pic {
+  border-radius: 25%;
   width: 28vw;
   padding: 20px;
-} */
+}
 
 .welcome-intro {
   font-family: "Raleway", sans-serif;
