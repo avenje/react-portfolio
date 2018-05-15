@@ -6,7 +6,7 @@ class Welcome extends Component {
    render() {
       return (
          <div className="Welcome section">
-            <h1 className="welcome-intro"><strong>Jeremy Avenarius</strong> is seeking out an opportunity to be a Web Developer in Denver, CO.
+            <h1 className="welcome-intro"><strong>Jeremy Avenarius</strong> is seeking an opportunity to be a Web Developer in Denver, CO.
                <br/>
                <br/>
                <a href="https://www.linkedin.com/in/jeremy-avenarius/" target="_blank" alt="LinkedIn link" rel="noopener noreferrer"><i className="fa fa-linkedin-square i-hov" aria-hidden="true"/></a>

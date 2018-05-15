@@ -186,36 +186,16 @@ p {
   bottom: 100%;
   left: 0;
   right: 0;
-  background-color: white;
-  opacity: .9;
+  background-color: rgba(1, 0, 0, 0.78);
   overflow: hidden;
   width: 100%;
   height:0;
-  transition: .5s ease;
+  transition: .75s ease;
 }
 
 .item:hover .overlay {
   bottom: 0;
   height: 100%;
-}
-
-.blog-overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .3s ease;
-  background-color: #bafffc;
-  border-radius: 5px;
-}
-
-.item:hover .blog-overlay {
-  height: 100%;
-  opacity: 1;
 }
 
 .item:hover .thumb {
@@ -225,7 +205,7 @@ p {
 
 .text {
   white-space: nowrap;
-  color: black;
+  color: white;
   font-size: 20px;
   position: absolute;
   overflow: hidden;
@@ -236,7 +216,7 @@ p {
 }
 
 .text a {
-  color: #00c8c8;
+  color: #1183F9;
   text-decoration: none;
 }
 
@@ -270,10 +250,10 @@ p {
 
 .Welcome button {
   font-family: "Montserrat", sans-serif;
-    background-color: white;
+    background-color: #F4EEEE;
     color: black;
     border: 2px solid black;
-    border-radius: 3px;
+    border-radius: 9px;
     padding: 15px 50px;
     text-align: center;
     text-decoration: none;
@@ -286,15 +266,16 @@ p {
 }
 
 .Welcome button:hover {
-    background-color: #00f2e7;
+    background-color: #1183F9;
     border: 2px solid;
-    border-color: #00f2e7;
+    border-color: #1183F9;
     color: white;
 }
 
 .main-pic {
-  border-radius: 25%;
+  border-radius: 49px;
   width: 28vw;
+  max-width: 280px;
   padding: 20px;
 }
 
@@ -407,18 +388,18 @@ p {
 }
 
 .nav-link:hover:not(.active) {
-  background-color: #bafffc;
+  background-color: #7497ED;
   color: #16223C;
 }
 
 .nav-link.active {
   color: white;
-  background-color: #4CAF50;
+  background-color: #7497ED;
 }
 
 .nav-link:focus {
   color: white;
-  background-color: #4CAF50;
+  background-color: #7497ED;
 }
 
 .Footer {

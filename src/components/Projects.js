@@ -16,7 +16,7 @@ class Projects extends Component {
                      <p><em>Search for the nearest coffee shop and <br/> find out their tip ratio</em></p>
                      <p>JavaScript, JQuery, AJAX, APIs, CSS, SASS</p>
                      <p><a href="https://github.com/aaronwey/project1" target="_blank" rel="noopener noreferrer">Repository(Group Project) <i className="fa fa-github" aria-hidden="true"/></a></p>
-                     <p><a href="https://ccrs2006.github.io/barista/" target="_blank" rel="noopener noreferrer">Live Demo Site <i className="fa fa-github" aria-hidden="true"/></a></p>
+                     <p><a href="https://ccrs2006.github.io/barista/" target="_blank" rel="noopener noreferrer">Live Demo Site </a></p>
                   </div>
                </div> 
             </div>
@@ -28,7 +28,7 @@ class Projects extends Component {
                      <p><em>Fictional Train Schedule for Arriving Trains and <br/> Newly Created Trains</em></p>
                      <p>Firebase, Moment.js, JavaScript, JQuery, CSS, Bootstrap</p>
                      <p><a href="https://github.com/avenje/train_scheduler" target="_blank" rel="noopener noreferrer">Repository <i className="fa fa-github" aria-hidden="true"/></a></p>
-                     <p><a href="https://avenje.github.io/train_scheduler/" target="_blank" rel="noopener noreferrer">Live Demo Site <i className="fa fa-github" aria-hidden="true"/></a></p>
+                     <p><a href="https://avenje.github.io/train_scheduler/" target="_blank" rel="noopener noreferrer">Live Demo Site </a></p>
                   </div>
                </div> 
             </div>
@@ -40,7 +40,7 @@ class Projects extends Component {
                      <p><em>Android News Scraped from a News Site</em></p>
                      <p>Node.js, Express, MongoDB with Mongoose, JavaScript,<br/> JQuery, Handlebars, CSS, Bootstrap</p>
                      <p><a href="https://github.com/avenje/scrape-news" target="_blank" rel="noopener noreferrer">Repository <i className="fa fa-github" aria-hidden="true"/></a></p>
-                     <p><a href="https://tranquil-dawn-96654.herokuapp.com/" target="_blank" rel="noopener noreferrer">Live Demo Site <i className="fa fa-github" aria-hidden="true"/></a></p>
+                     <p><a href="https://tranquil-dawn-96654.herokuapp.com/" target="_blank" rel="noopener noreferrer">Live Demo Site </a></p>
                   </div>
                </div> 
             </div>

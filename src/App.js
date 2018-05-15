@@ -16,7 +16,7 @@ class App extends Component {
           <Projects />
         <h2 className="heading" id="about">ABOUT</h2>
           <About />
-        <h2 className="heading" id="footer">LIKE WHAT YOU SEE?</h2>
+        <h2 className="heading" id="footer">Contact Info</h2>
           <Footer />
       </div>
     );
