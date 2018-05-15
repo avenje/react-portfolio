@@ -9,7 +9,7 @@ class Projects extends Component {
       return (
          <div className="Projects section flex-container">
             <div className="item">
-               <img src={barista} className="thumb"/>
+               <img src={barista} className="thumb" alt="Screenshot of The Barista app"/>
                <div className="overlay">
                   <div className="text">
                      <h3>The Barista</h3>
@@ -21,7 +21,7 @@ class Projects extends Component {
                </div> 
             </div>
             <div className="item">
-               <img src={train} className="thumb"/>
+               <img src={train} className="thumb" alt="Screenshot of Train Scheduler app"/>
                <div className="overlay">
                   <div className="text">
                      <h3>Train Scheduler</h3>
@@ -33,7 +33,7 @@ class Projects extends Component {
                </div> 
             </div>
             <div className="item">
-               <img src={scrapeNews} className="thumb"/>
+               <img src={scrapeNews} className="thumb" alt="Screenshot of Scrape News app"/>
                <div className="overlay">
                   <div className="text">
                      <h3>Scraped Android News</h3>
