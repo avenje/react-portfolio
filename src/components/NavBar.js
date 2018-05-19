@@ -5,7 +5,7 @@ class NavBar extends Component {
       return (
          <div>
             <ul className="NavBar">
-               <li className="nav-item nav-name">Jeremy A.</li>
+               <li className="nav-item nav-name">portfolio</li>
                <li className="nav-item nav-last"><a href="#footer" className="nav-link">Contact</a></li>
                <li className="nav-item"><a href="#about" className="nav-link">About</a></li>
                <li className="nav-item"><a href="#projects" className="nav-link">Projects</a></li>
