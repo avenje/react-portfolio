@@ -285,9 +285,9 @@ p {
   flex-wrap: wrap;
 }
 
-/* .About {
+.About {
   background-color: whitesmoke;
-} */
+}
 
 .about-intro {
   font-family: "Raleway", sans-serif;
@@ -401,7 +401,7 @@ p {
 }
 
 .Footer div {
-  text-align: left;
+  text-align: center;
 }
 
 .Footer img {
