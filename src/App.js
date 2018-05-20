@@ -11,6 +11,7 @@ class App extends Component {
     return (
       <div className="App">
           <NavBar />
+          <div className="heading" id="welcome"></div>
           <Welcome />
         <h2 className="heading" id="projects">PROJECTS</h2>
         <h4>More to come...</h4>

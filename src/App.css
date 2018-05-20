@@ -234,10 +234,10 @@ p {
   transition-duration: 0.4s;
 }
 
-.Welcome .i-hov:hover {
+/* .Welcome .i-hov:hover {
   color: #00f2e7;
   display: inline-block;
-}
+} */
 
 .Welcome button {
   font-family: "Montserrat", sans-serif;
@@ -279,24 +279,15 @@ p {
   font-weight: 900;
 }
 
-/* .weatherIcon {
-  width: 30px;
-} */
-
 .Projects {
   background-color: #FFF;
   display: flex;
   flex-wrap: wrap;
 }
 
-.About {
-  /* background-image: url(./images/.jpg); */
-  /* background-repeat: no-repeat; */
-  /* background-size: 1500px; */
-  /* background-position: bottom; */
-  /* height: 900px; */
+/* .About {
   background-color: whitesmoke;
-}
+} */
 
 .about-intro {
   font-family: "Raleway", sans-serif;
@@ -394,6 +385,7 @@ p {
   background-color: #7497ED;
 }
 
+
 .Footer {
   list-style-type: none;
   width: 100%;
@@ -401,31 +393,25 @@ p {
   text-align: center;
   align-items: center;
   z-index: 500;
-  background: #565D5D;
-  background: -webkit-linear-gradient(to right, #4C5353, #f1f1f1);
-  background: linear-gradient(to right, #4C5353, #f1f1f1);
+  color: white;
+  background: black;
   display: flex;
   justify-content: center;
   grid-template-columns: 10% 30% 50% 10%;
 }
 
 .Footer div {
-  text-align: center;
+  text-align: left;
 }
 
 .Footer img {
   padding: 15px;
-  width: 400px;
+  height: 300px;
 }
 
 .Footer a {
   text-decoration: none;
-  color: black;
+  color: white;
   line-height: 10px;
   font-size: 18px;
-}
-
-.Footer h3 {
-  font-size: 30px;
-  line-height: 10px;
 }
