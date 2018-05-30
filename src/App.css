@@ -87,7 +87,7 @@
   }
 
   .Welcome > .main-pic {
-    width: 200px
+    width: 200px;
   }
 
   .Welcome .resume-button {
@@ -116,7 +116,7 @@
 }
 
 .App {
-  /* background-image: url('./divider.png'); */
+  /* background-image: url('./sticks.png'); */
   text-align: center;
 }
 
@@ -132,7 +132,7 @@ h1 {
 
 h2 {
   font-size: 50px;
-  line-height: 10px;
+  line-height: 0px;
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
 }
@@ -335,6 +335,7 @@ p {
   /*border: 1px solid #e7e7e7;*/
   background-color: #f1f1f1;
   z-index: 500;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 1);
 }
 
 .nav-item {
