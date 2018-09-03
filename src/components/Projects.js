@@ -3,7 +3,7 @@ import barista from '../images/barista.svg';
 import train from '../images/train.svg';
 import scrapeNews from '../images/scrapeNews.svg';
 import whoIs from '../images/whoIs.svg';
-// import friendFinder from '../images/friendFinder.svg';
+
 
 class Projects extends Component {
    render() {
@@ -15,7 +15,7 @@ class Projects extends Component {
                      <div className="text">
                         <h3>Who Is This Is</h3>
                         <p><em>A reverse phone number search app<br/> that will pull information using the Whitepages Pro api.<br/>It will return a name, address, line type, and associated people.</em></p>
-                        <p>React, Node, JavaScript, API, CSS</p>
+                        <p>React, Node, JavaScript, API</p>
                         <p><a href="https://github.com/avenje/callerID" target="_blank" rel="noopener noreferrer">Repository(Group Project) <i className="fa fa-github" aria-hidden="true"/></a></p>
                         <p><a href="https://avenje.github.io/callerID/" target="_blank" rel="noopener noreferrer">Live Demo Site </a></p>
                      </div>
@@ -27,10 +27,10 @@ class Projects extends Component {
                   <div className="overlay">
                      <div className="text">
                         <h3>The Barista</h3>
-                        <p><em>Search for the nearest coffee shop and <br/> find out their tip ratio</em></p>
-                        <p>JavaScript, JQuery, AJAX, APIs, CSS, SASS</p>
-                        <p><a href="https://github.com/aaronwey/project1" target="_blank" rel="noopener noreferrer">Repository(Group Project) <i className="fa fa-github" aria-hidden="true"/></a></p>
-                        <p><a href="https://ccrs2006.github.io/barista/" target="_blank" rel="noopener noreferrer">Live Demo Site </a></p>
+                        <p><em>Search for the nearest coffee shop</em></p>
+                        <p>JavaScript, JQuery, AJAX, APIs, SASS</p>
+                        <p><a href="https://github.com/avenje/Local-Coffee-Shop-Finder" target="_blank" rel="noopener noreferrer">Repository(Forked from a Group Project) <i className="fa fa-github" aria-hidden="true"/></a></p>
+                        <p><a href="https://avenje.github.io/Local-Coffee-Shop-Finder/" target="_blank" rel="noopener noreferrer">Live Demo Site </a></p>
                      </div>
                   </div> 
             </div>
@@ -40,7 +40,7 @@ class Projects extends Component {
                      <div className="text">
                         <h3>Train Scheduler</h3>
                         <p><em>Fictional Train Schedule for Arriving Trains and <br/> Newly Created Trains</em></p>
-                        <p>Firebase, Moment.js, JavaScript, JQuery, CSS, Bootstrap</p>
+                        <p>Firebase, Moment.js, JavaScript, JQuery, Bootstrap</p>
                         <p><a href="https://github.com/avenje/train_scheduler" target="_blank" rel="noopener noreferrer">Repository <i className="fa fa-github" aria-hidden="true"/></a></p>
                         <p><a href="https://avenje.github.io/train_scheduler/" target="_blank" rel="noopener noreferrer">Live Demo Site </a></p>
                      </div>
